@@ -27,6 +27,7 @@
         android:drawableStart="@drawable/ic_action_discard_light"
         android:drawablePadding="8dp"
         android:gravity="center_vertical"
+		android:textSize ="18sp"
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
         android:paddingStart="20dp"
