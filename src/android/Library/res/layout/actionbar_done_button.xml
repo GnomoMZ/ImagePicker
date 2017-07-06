@@ -23,8 +23,6 @@
 
     <TextView android:id="@+id/actionbar_done_textview"
         android:text="@string/done"
-        android:drawableLeft="@drawable/ic_action_done_light"
-        android:drawableStart="@drawable/ic_action_done_light"
         android:drawablePadding="8dp"
         android:gravity="center_vertical"
 		android:textSize ="15dp"

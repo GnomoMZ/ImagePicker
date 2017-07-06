@@ -23,8 +23,6 @@
 
     <TextView android:id="@+id/actionbar_discard_textview"
         android:text="@string/discard"
-        android:drawableLeft="@drawable/ic_action_discard_light"
-        android:drawableStart="@drawable/ic_action_discard_light"
         android:drawablePadding="8dp"
         android:gravity="center_vertical"
 	    android:textSize ="15dp"
