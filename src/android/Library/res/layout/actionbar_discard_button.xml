@@ -32,7 +32,7 @@
         android:paddingRight="20dp"
         android:paddingStart="20dp"
         android:paddingEnd="20dp"
-        android:layout_width="wrap_content"
+		android:layout_width="MATCH_PARENT"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         style="?android:actionBarTabTextStyle" />
